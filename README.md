@@ -179,15 +179,18 @@ A RAG-based application designed to retrieve relevant information and provide in
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hemalathabora/hemalathabora/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <i>Always learning, building and improving 🚀</i>
-</p>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hemalathabora/hemalathabora/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hemalathabora/hemalathabora/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/hemalathabora/hemalathabora/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
