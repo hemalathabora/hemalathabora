@@ -115,8 +115,9 @@ A platform designed to support disaster management with alerts, weather monitori
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hemalathabora&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=hemalathabora&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
     alt="GitHub Stats"
+    height="170"
   />
 </p>
 
@@ -124,11 +125,11 @@ A platform designed to support disaster management with alerts, weather monitori
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemalathabora&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemalathabora&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"
     alt="Most Used Languages"
+    height="170"
   />
 </p>
----
 
 ## 🏆 Coding Profiles
 
