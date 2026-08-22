@@ -115,17 +115,17 @@ A platform designed to support disaster management with alerts, weather monitori
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hemalathabora&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=hemalathabora&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
 
-### 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hemalathabora&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    height="220"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemalathabora&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
   />
 </p>
 ---
