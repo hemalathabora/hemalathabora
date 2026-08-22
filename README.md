@@ -111,27 +111,6 @@ A platform designed to support disaster management with alerts, weather monitori
 **Tech:** `React` `Python` `APIs` `Maps`
 
 ---
-
-### 🔍 Fake Job Posting Detector
-
-**Machine Learning-Based Fraudulent Job Detection System**
-
-A machine learning application that analyzes job postings and predicts whether they are genuine or fraudulent.
-
-**Tech:** `Python` `Scikit-learn` `TF-IDF` `Logistic Regression` `Streamlit`
-
----
-
-### 🧠 KnowledgeOS-AI
-
-**AI-Powered Knowledge and Placement Assistant**
-
-A RAG-based application designed to retrieve relevant information and provide intelligent responses using vector search and language models.
-
-**Tech:** `React` `FastAPI` `Qdrant` `Sentence Transformers` `PostgreSQL`
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
