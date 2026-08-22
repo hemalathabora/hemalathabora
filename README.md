@@ -113,12 +113,10 @@ A platform designed to support disaster management with alerts, weather monitori
 ---
 ## 📊 GitHub Statistics
 
-### 📅 Yearly Contributions
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hemalathabora&theme=github-compact&hide_border=true"
-    width="95%"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hemalathabora&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
   />
 </p>
 
@@ -126,11 +124,10 @@ A platform designed to support disaster management with alerts, weather monitori
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemalathabora&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hemalathabora&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    height="220"
   />
 </p>
-
 ---
 
 ## 🏆 Coding Profiles
@@ -149,11 +146,7 @@ A platform designed to support disaster management with alerts, weather monitori
 
 ---
 
-## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemalathabora&theme=github-compact&hide_border=true" />
-
----
 
 ## 🐍 Contribution Snake
 
