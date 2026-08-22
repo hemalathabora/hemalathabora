@@ -113,16 +113,16 @@ A platform designed to support disaster management with alerts, weather monitori
 ---
 ## 📊 GitHub Statistics
 
+### 📅 Yearly Contributions
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hemalathabora&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hemalathabora&theme=github-dark-blue&hide_border=true"
-    height="170"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hemalathabora&theme=github-compact&hide_border=true"
+    width="95%"
   />
 </p>
+
+### 💻 Most Used Languages
 
 <p align="center">
   <img
