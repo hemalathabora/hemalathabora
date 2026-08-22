@@ -5,7 +5,7 @@ B.Tech CSE Student | AI/ML Enthusiast | Full-Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+solutions;Exploring+Machine+Learning+and+Full-Stack+Development;Turning+ideas+into+real-world+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+solutions;Exploring+Machine+Learning+and+Full-Stack+Development;Turning+ideas+into+real-world+applications" alt="Typing SVG" />
 </p>
 
 ---
