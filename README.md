@@ -111,6 +111,17 @@ A platform designed to support disaster management with alerts, weather monitori
 **Tech:** `React` `Python` `APIs` `Maps`
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hemalathabora&theme=github-dark&hide_border=true"
+    alt="Hemalatha Bora's Contribution Graph"
+  />
+</p>
+
+---
 ## 🏆 Coding Profiles
 
 <p>
